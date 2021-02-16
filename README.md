@@ -8,4 +8,4 @@
 
 <h2>Confira o resultado final deste projeto</h2>
 
-https://luisfernandomgrs.github.io/First-Code-Started-Chart.js/
+https://luisfernandomgrs.github.io/First-Code-Started-Chart/index.html
